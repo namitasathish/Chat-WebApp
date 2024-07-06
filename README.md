@@ -13,7 +13,7 @@ A chat application built using ReactJS, ChatEngine, and Axios. This demonstrates
     ```bash
     npm install
     ```
-3. Create a `.env` file in the root directory and add your ChatEngine project ID:
+3. Create a `.env` file in the root directory and add your ChatEngine project ID
 
 4. Start the application:
     ```bash

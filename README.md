@@ -4,7 +4,7 @@ A chat application built using ReactJS, ChatEngine, and Axios. This demonstrates
 - **UserLogin**:Users can login and logout of their account using their username and password
 - **ImageSharing**:Users can share images to their chats
 - **GroupChats**:Multiple users can chat together
-  ## Usage
+## Usage
 
 1. Open your browser and navigate to `http://localhost:3000`.
 2. Login with your username and password.

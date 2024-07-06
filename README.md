@@ -4,6 +4,23 @@ A chat application built using ReactJS, ChatEngine, and Axios. This demonstrates
 - **UserLogin**:Users can login and logout of their account using their username and password
 - **ImageSharing**:Users can share images to their chats
 - **GroupChats**:Multiple users can chat together
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Create a `.env` file in the root directory and add your ChatEngine project ID:
+    ```env
+    REACT_APP_CHAT_ENGINE_PROJECT_ID=your_project_id
+    ```
+4. Start the application:
+    ```bash
+    npm start
+    ```
+    
 ## Usage
 
 1. Open your browser and navigate to `http://localhost:3000`.

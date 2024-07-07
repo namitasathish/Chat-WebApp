@@ -1,5 +1,6 @@
 # Chat-WebApp
-A chat application built using ReactJS, ChatEngine, and Axios. This ia a chat interface with login and logout functionality
+A chat application built using ReactJS, ChatEngine, and Axios,
+ with login and logout functionality
 ## Features
 - **UserLogin**:User authentication using username and password.
 - **ImageSharing**:Users can share images to their chats
